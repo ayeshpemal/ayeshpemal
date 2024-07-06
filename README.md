@@ -32,7 +32,7 @@ I'm [Ayesha Pemal](https://csbodima.lk/ayesha), I’m an undergraduate at the Un
   <i>Let's connect and chat! Find me on the web...</i>
   
    [![Website Badge](https://img.shields.io/badge/-csbodima.lk/ayesha-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://csbodima.lk/ayesha)](https://csbodima.lk/ayesha) 
-   [![Linkedin Badge](https://img.shields.io/badge/ayesha-pemal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayesha-pemal/)](https://www.linkedin.com/in/ayesha-pemal/)  
+   [![Linkedin Badge](https://img.shields.io/badge/ayeshapemal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayesha-pemal/)](https://www.linkedin.com/in/ayesha-pemal/)  
    [![Twitter Badge](https://img.shields.io/badge/-@Ay3sh_pemal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/Ay3sh_pemal)](https://x.com/Ay3sh_pemal)
 
   <p align="right">
@@ -42,6 +42,6 @@ I'm [Ayesha Pemal](https://csbodima.lk/ayesha), I’m an undergraduate at the Un
 
 <div align="right">
   
-  [![HitCount](https://hits.dwyl.com/ayeshpemal/ayeshpemal.svg?style=flat-square)](http://hits.dwyl.com/ayeshpemal/ayeshpemal) !<!--[ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg)--> [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]
+  [![HitCount](https://hits.dwyl.com/ayeshpemal/ayeshpemal.svg?style=flat-square)](http://hits.dwyl.com/ayeshpemal/ayeshpemal) !<!--[ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg)--> [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](csbodima.lk/ayesha)
 
 </div>
