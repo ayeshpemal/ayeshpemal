@@ -35,8 +35,8 @@ I'm [Ayesha Pemal](https://csbodima.lk/ayesha), I’m an undergraduate at the Un
    [![Linkedin Badge](https://img.shields.io/badge/ayeshapemal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayesha-pemal/)](https://www.linkedin.com/in/ayesha-pemal/)  
    [![Twitter Badge](https://img.shields.io/badge/-@Ay3sh_pemal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/Ay3sh_pemal)](https://x.com/Ay3sh_pemal)
 
-  <p align="center">
-    Profile template From <span href="https://github.com/verma-anushka">[Anushka Verma]</span>
+  <p align="right">
+    Profile template From <a href="https://github.com/verma-anushka"><span >[Anushka Verma]</span></a>
   </p>
 </p>
 
