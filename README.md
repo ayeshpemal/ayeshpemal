@@ -30,7 +30,7 @@ I'm [Ayesha Pemal](https://csbodima.lk/ayesha), I’m an undergraduate at the Un
 
 ---
 
-<p align="center">
+<p text-align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
    [![Website Badge](https://img.shields.io/badge/-csbodima.lk/ayesha-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://csbodima.lk/ayesha)](https://csbodima.lk/ayesha) 
