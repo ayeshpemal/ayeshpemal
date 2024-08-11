@@ -23,7 +23,7 @@ I'm [Ayesha Pemal](https://csbodima.lk/ayesha), I’m an undergraduate at the Un
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshpemal&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshpemal&show_icons=true&theme=dracula&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshpemal&count_private=true&theme=dracula">
 
 </p>
