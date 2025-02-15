@@ -44,6 +44,6 @@ I'm [Ayesha Pemal](https://csbodima.lk/ayesha), I’m an undergraduate at the Un
 
 <div align="right">
   
-  [![HitCount](https://hits.dwyl.com/ayeshpemal/ayeshpemal.svg?style=flat-square)](http://hits.dwyl.com/ayeshpemal/ayeshpemal) <!--![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg)--> [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://csbodima.lk/ayesha)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fayeshpemal%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=symantec.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <!--![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg)--> [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://csbodima.lk/ayesha)
 
 </div>
