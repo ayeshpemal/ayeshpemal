@@ -2,7 +2,7 @@
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Ayesha Pemal](https://csbodima.lk/ayesha), I’m an undergraduate at the University of Ruhuna, Department of Computer Science.
+I'm [Ayesha Pemal](https://ayesha.csbodima.lk), I’m an undergraduate at the University of Ruhuna, Department of Computer Science.
 
 ---
 
