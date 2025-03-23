@@ -33,7 +33,7 @@ I'm [Ayesha Pemal](https://ayesha.csbodima.lk), I’m an undergraduate at the Un
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-csbodima.lk/ayesha-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://csbodima.lk/ayesha)](https://csbodima.lk/ayesha)
+   [![Website Badge](https://img.shields.io/badge/-csbodima.lk/ayesha-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://csbodima.lk/ayesha)](https://ayesha.csbodima.lk)
    [![Linkedin Badge](https://img.shields.io/badge/ayeshapemal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayesha-pemal/)](https://www.linkedin.com/in/ayesha-pemal/)
    [![Twitter Badge](https://img.shields.io/badge/@Ay3sh_pemal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/Ay3sh_pemal)](https://x.com/Ay3sh_pemal) 
 
