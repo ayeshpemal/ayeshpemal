@@ -2,7 +2,7 @@
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Ayesha Pemal](https://ayesha.csbodima.lk), I’m an undergraduate at the University of Ruhuna, Department of Computer Science.
+I'm [Ayesha Pemal](https://ayesha.csbodima.lk), a Software Engineer with experience building scalable web applications and intelligent features using technologies like React, NestJS, and Supabase. Skilled in API design and third-party integrations, coupled with foundational DevOps knowledge in AWS, Docker, and automated deployments. 
 
 ---
 
